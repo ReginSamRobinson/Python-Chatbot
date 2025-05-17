@@ -29,6 +29,7 @@ Create an educational chatbot that:
 * `users`: Stores login credentials (`username`, `password`)
 * `avap`: Stores question-answer pairs for freeform questions
 * `pav`: Stores module names and descriptions
+#### (The Database is attached in the chatbot.sql file)
 
 ---
 
